@@ -1,13 +1,3 @@
 .App {
   text-align: center;
 }
-
-header {
-  position: fixed;
-  background-color: blueviolet;
-  width: 100vw;
-}
-
-article {
-  border: 3px solid turquoise;
-}
